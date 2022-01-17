@@ -1,11 +1,11 @@
-import styles from './components/Styles/styles.css';
+import './components/Styles/styles.css';
 import Card from './components/Card';
 
 
 const App = () => {
   return (
     <>
-      <h1 >Hello World!!!</h1>
+      <h1>Hello World!!!</h1>
       <Card/>
     </>
   )
